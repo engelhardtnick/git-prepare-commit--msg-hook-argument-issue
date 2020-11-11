@@ -1,0 +1,6 @@
+#! /bin/bash
+
+echo "These are the arguments for the prepare-commit-msg hook"
+echo "commit log message filename: $1"
+echo "source of commit message :$2"
+echo "______________________________________________________"
