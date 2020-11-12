@@ -9,4 +9,5 @@ According to the documentation, said hook is supposed to receive `squash` as sou
  `message` to the `prepare-commit-msg` hook.
  
  ## Usage
- Simply run `run-demonstration.sh` and follow the on-screen directions. 
+ 1. Copy or link `prepare-commit-msg` to this repositories' `./git/hooks/prepare-commit-msg`
+ 1. Run `run-demonstration.sh` and follow the on-screen directions. 
